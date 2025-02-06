@@ -87,9 +87,9 @@ This project is a **Smart Door Lock System** utilizing an **ESP32**, multiple se
 
 1. **Upload the Code**  
    - Install the **Blynk** and **ESP32 libraries** in Arduino IDE.  
-   - Replace `BLYNK_AUTH_TOKEN` with your own from the Blynk app.  
-   - Set your **Wi-Fi credentials** in `ssid[]` and `pass[]`.  
-   - Upload the `.ino` (C++) file to the ESP32 board.  
+   - Replace BLYNK_AUTH_TOKEN with your own from the Blynk app.  
+   - Set your **Wi-Fi credentials** in ssid[] and pass[].  
+   - Upload the .cpp (C++) file to the ESP32 board.  
 
 2. **Blynk App Configuration**  
    - Create a **Blynk project** and get the **Auth Token**.  
