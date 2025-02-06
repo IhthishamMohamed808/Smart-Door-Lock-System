@@ -1,4 +1,4 @@
-**Smart Door Lock System**
+# **Smart Door Lock System**
 
 **Overview**
 This project is a **Smart Door Lock System** utilizing an **ESP32**, multiple sensors, and actuators to provide secure access control. The system integrates with **Blynk**, enabling remote monitoring and control via a mobile app. It features:  
