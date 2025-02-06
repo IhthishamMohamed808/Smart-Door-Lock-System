@@ -111,11 +111,4 @@ This project is a **Smart Door Lock System** utilizing an **ESP32**, multiple se
 
 ---
 
-**Future Improvements**  
-- Add **RFID or Fingerprint Scanner** for more security.  
-- Integrate **face recognition** with a camera module.  
-- Implement **remote alerts via SMS or email**.  
-
----
-
 This project is a **simple yet effective smart door lock system** that enhances security using **IoT and multiple sensors**. 
